@@ -7,12 +7,12 @@ Times we can meet to plan/work on this project (No work/class) <br>
 |------:|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:-------|
 | Andrew|2 - 4:30| 2 - 4:30| 2 - 4:30  | 2 - 4:30 |2 - 4:30|    Any   |   Any  | 
 | Logan |        |         |           |          |        |          |        |
-| Nick  |        |         |           |          |        |          |        |
+| Nick  |After 5pm|After 5pm|After 5pm|After 5pm|After 5pm|Not Available|Any|
 
 #### Phone num
 Andrew: (970) 986-9323    <br>
 Logan:                    <br> 
-Nick:                     <br>
+Nick:   (423) 605-9864    <br>
 
 ## Presentation 
 
@@ -39,3 +39,4 @@ Nick:                     <br>
 | Not Set    | Is there anything this language does extremely well? Anything it does poorly? |
 | Not Set    | What hardware is required to run the software? |
 | Not Set    | How much does it cost? |
+| Difficulty Scale | 1 easy -- 10 difficult
