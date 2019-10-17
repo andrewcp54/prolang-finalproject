@@ -21,7 +21,7 @@ Nick:                     <br>
 2.) Presentation aids are clear and easily understood <br>
 3.) Presentation is by all partners <br>
 4.) Presentation covers the essentials (listed below) <br> 
-5.) Presentation includes a [typical program](https://github.com/pamacs/eliza-in-clojure/blob/master/src/eliza_basic.clj) for that language <br> 
+5.) Presentation includes a [typical program](https://github.com/andrewcp54/prolang-finalproject/blob/master/eliza_basic.clj) for that language <br> 
 
 ### Software Evaluation 
 | Difficulty | Question |
