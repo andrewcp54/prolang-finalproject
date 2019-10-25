@@ -1,5 +1,8 @@
 # Clojure
 Times we can meet to plan/work on this project (No work/class) <br>
+
+To compile/run/execute .clj files click [here](https://leiningen.org/#install)
+
 #### Presenting November 18th
 
 ### Available Times
