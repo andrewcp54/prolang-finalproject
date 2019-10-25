@@ -27,19 +27,18 @@ Nick:   (423) 605-9864    <br>
 5.) Presentation includes a [typical program](https://github.com/andrewcp54/prolang-finalproject/blob/master/eliza_basic.clj) for that language <br> 
 
 ### Software Evaluation 
-| Difficulty | Question |
-|-----------:|:---------|
-| Not Set    | In what paradigm(s) does this language reside? |
-| Not Set    | Who is the intended audience? Do the authors reach that audience? |
-| Not Set    | What is the environment like? Is an editor provided? What is the compiler like? What is the exception handling like? |
-| Not Set    | What is the documentation like (including interactive documentation)? Is this implementation dependent, or part of the language design, or can you tell? |
-| Not Set    | How easy is it to debug the program? Does the program give adequate error messages?  |
-| Not Set    | Evaluation of key language principles - security, readability, writability, simplicity, uniformity, efficiency, expressiveness, etc. - if they apply  |
-| Not Set    | Which data types are built into the programming language (if any)? Are user defined types allowed? Are dynamic variables allowed? |
-| Not Set    | Did you like working with the software? |
-| Not Set    | If you had to suggest a use for it, what would it be? |
-| Not Set    | Is there any research written on the software? What does it say? Do you agree or disagree? |
-| Not Set    | Is there anything this language does extremely well? Anything it does poorly? |
-| Not Set    | What hardware is required to run the software? |
-| Not Set    | How much does it cost? |
-| Difficulty Scale | 1 easy -- 10 difficult
+|Assignee| Difficulty | Question |
+|-------:|:----------:|:---------|
+| Andrew | Not Set    | In what paradigm(s) does this language reside? |
+| Logan | Not Set    | Who is the intended audience? Do the authors reach that audience? |
+| Andrew | Not Set    | What is the environment like? Is an editor provided? What is the compiler like? What is the exception handling like? |
+| Andrew | Not Set    | What is the documentation like (including interactive documentation)? Is this implementation dependent, or part of the language design, or can you tell? |
+| Nick | Not Set    | How easy is it to debug the program? Does the program give adequate error messages?  |
+| Logan | Not Set    | Evaluation of key language principles - security, readability, writability, simplicity, uniformity, efficiency, expressiveness, etc. - if they apply  |
+| Logan | Not Set    | Which data types are built into the programming language (if any)? Are user defined types allowed? Are dynamic variables allowed? |
+| ALL | Not Set    | Did you like working with the software? |
+| Nick | Not Set    | If you had to suggest a use for it, what would it be? |
+| Nick | Not Set    | Is there any research written on the software? What does it say? Do you agree or disagree? |
+| Nick | Not Set    | Is there anything this language does extremely well? Anything it does poorly? |
+| Andrew | Not Set    | What hardware is required to run the software? |
+| Logan | Not Set    | How much does it cost? |
