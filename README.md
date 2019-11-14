@@ -9,12 +9,12 @@ To compile/run/execute .clj files click [here](https://leiningen.org/#install)
 |       | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |------:|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:-------|
 | Andrew|2 - 4:30| 2 - 4:30| 2 - 4:30  | 2 - 4:30 |2 - 4:30|    Any   |   Any  | 
-| Logan |        |         |           |          |        |          |        |
+| Logan |        |         |           |  2 - 10  | 2 - 10 |     -    |  Morn  |
 | Nick  |After 5pm|After 5pm|After 5pm|After 5pm|After 5pm|Not Available|Any|
 
 #### Phone num
 Andrew: (970) 986-9323    <br>
-Logan:                    <br> 
+Logan:  (970) 270-2496    <br> 
 Nick:   (423) 605-9864    <br>
 
 ## Presentation 
